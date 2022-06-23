@@ -1,2 +1,2 @@
 #!/bin/bash
-su chsh -s betty
+sudo chown -s betty
